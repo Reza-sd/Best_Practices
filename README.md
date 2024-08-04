@@ -3,9 +3,13 @@
 --------------------------------
 
 ## How should I structure new projects in Golang?
+
 https://github.com/golang-standards/project-layout
+
 https://www.youtube.com/watch?v=oL6JBUk6tj0
+
 https://youtu.be/dJIUxvfSg6A
+
 
 Why is PSEUDOCODE important?
 https://medium.com/@breakthrougdeborah/pseudocode-why-is-it-important-a9285908a329
