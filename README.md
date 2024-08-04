@@ -2,7 +2,7 @@
 
 --------------------------------
 
-## How should I structure new projects in Golang?
+### How should I structure new projects in Golang?
 - https://github.com/golang-standards/project-layout
 - https://www.youtube.com/watch?v=oL6JBUk6tj0
 - https://youtu.be/dJIUxvfSg6A
