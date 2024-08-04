@@ -8,11 +8,12 @@
 - https://youtu.be/dJIUxvfSg6A
 
 
-Why is PSEUDOCODE important?
-https://medium.com/@breakthrougdeborah/pseudocode-why-is-it-important-a9285908a329
-5 Principles of Problem Solving
-https://www.linkedin.com/pulse/5-principles-problem-solving-rajiv-gupta/
-https://www.healthywa.wa.gov.au/Articles/N_R/Problem-solving
+### Why is PSEUDOCODE important?
+- https://medium.com/@breakthrougdeborah/pseudocode-why-is-it-important-a9285908a329
+
+### 5 Principles of Problem Solving
+- https://www.linkedin.com/pulse/5-principles-problem-solving-rajiv-gupta/
+- https://www.healthywa.wa.gov.au/Articles/N_R/Problem-solving
 
 Why should I talk to a duck?
 https://en.wikipedia.org/wiki/Rubber_duck_debugging
