@@ -152,7 +152,9 @@
 - https://blog.machinet.net/post/understanding-the-arrange-act-assert-pattern-a-comprehensive-explanation
 - https://www.qwan.eu/2021/09/02/tdd-given-when-then.html
 - https://wiki.c2.com/?ArrangeActAssert
+
 ## How do I reduce debt? (Technical debt)
 - https://en.wikipedia.org/wiki/Technical_debt
 - https://www.techtarget.com/whatis/definition/technical-debt
 - https://www.digitalocean.com/resources/article/what-is-technical-debt
+
