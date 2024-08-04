@@ -51,7 +51,8 @@
 ### Why does being hands-on and spending time teaching others matter? 
 - https://en.wikipedia.org/wiki/Learning_pyramid
 
--------------------------------
+#
+
 ### Comment is code!
 - https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/
 - https://www.elegantthemes.com/blog/wordpress/how-to-comment-your-code-like-a-pro-best-practices-and-good-habits
@@ -101,7 +102,7 @@
 - https://www.myddelton.co.uk/blog/24-galls-law
 - https://deviq.com/laws/galls-law
 
---------------------------------
+#
 
 ### single-points-of-failure (SPOF)
 - https://en.wikipedia.org/wiki/Single_point_of_failure
@@ -146,14 +147,14 @@
 ### How to Make Everyone Hate You in Software Engineering
 - https://youtu.be/xbGWrzjGcug
 
---------------------------------
+#
 
-## How should I structure my tests? [ Arrange-Act-Assert (AAA) pattern in Unit Testing ]
+### How should I structure my tests? [ Arrange-Act-Assert (AAA) pattern in Unit Testing ]
 - https://blog.machinet.net/post/understanding-the-arrange-act-assert-pattern-a-comprehensive-explanation
 - https://www.qwan.eu/2021/09/02/tdd-given-when-then.html
 - https://wiki.c2.com/?ArrangeActAssert
 
-## How do I reduce debt? (Technical debt)
+### How do I reduce debt? (Technical debt)
 - https://en.wikipedia.org/wiki/Technical_debt
 - https://www.techtarget.com/whatis/definition/technical-debt
 - https://www.digitalocean.com/resources/article/what-is-technical-debt
