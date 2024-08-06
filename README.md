@@ -1,8 +1,8 @@
 # Best_Practices
 
 ### Clean Code
-https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
-https://www.freecodecamp.org/news/clean-coding-for-beginners/
+- https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+- https://www.freecodecamp.org/news/clean-coding-for-beginners/
 
 ### How should I structure new projects in Golang?
 - https://github.com/golang-standards/project-layout
