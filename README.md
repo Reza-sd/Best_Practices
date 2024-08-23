@@ -167,3 +167,8 @@
 - https://medium.com/outreach-prague/recover-in-go-c9006327d639
 - https://golangbot.com/panic-and-recover/
 - https://gosamples.dev/recover/
+
+### How should I design software? [Domain-driven design (DDD) approach]
+- https://en.wikipedia.org/wiki/Domain-driven_design
+- https://sarathsp06.medium.com/domain-driven-design-with-go-be3066ae213c
+- https://dev.to/elioenaiferrari/applying-domain-driven-design-ddd-in-golang-5d4m
