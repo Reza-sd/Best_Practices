@@ -163,3 +163,7 @@
 - https://www.techtarget.com/whatis/definition/technical-debt
 - https://www.digitalocean.com/resources/article/what-is-technical-debt
 
+### Do not Panic! Recover it. (prevent termination)
+- https://medium.com/outreach-prague/recover-in-go-c9006327d639
+- https://golangbot.com/panic-and-recover/
+- https://gosamples.dev/recover/
