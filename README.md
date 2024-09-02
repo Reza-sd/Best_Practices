@@ -185,3 +185,9 @@
 
 ### Cargo cult programming
 - https://en.wikipedia.org/wiki/Cargo_cult_programming
+
+### Overengineering
+- https://www.linkedin.com/pulse/overengineering-wrong-way-do-mindaugas-butnorius-poaqe/
+- https://dev.to/hasanelsherbiny/what-is-overengineering-6jm
+- https://evanm.website/2020/10/how-to-avoid-overengineering/
+- https://bastian-isensee.com/post/09-over-engineering/
