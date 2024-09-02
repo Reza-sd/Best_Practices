@@ -182,4 +182,6 @@
 ### Why Great Habits Are More Important Than Great Skills?
 - https://jhall.io/posts/great-habits/
 - https://medium.com/casavo/a-good-programmer-with-great-habits-a-thought-on-kent-becks-quote-a11c4e6eb9b2
-  
+
+### Cargo cult programming
+- https://en.wikipedia.org/wiki/Cargo_cult_programming
