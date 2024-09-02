@@ -1,9 +1,7 @@
 # Best_Practices
 
 ### Clean Code
-- [google] (https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 target="_blank")
-- <a href="https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29" target="_blank"> Visit Example</a>
-
+- https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
 - https://www.freecodecamp.org/news/clean-coding-for-beginners/ target="_blank"
 
 ### How should I structure new projects in Golang?
