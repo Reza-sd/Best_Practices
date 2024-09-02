@@ -172,3 +172,6 @@
 - https://en.wikipedia.org/wiki/Domain-driven_design
 - https://sarathsp06.medium.com/domain-driven-design-with-go-be3066ae213c
 - https://dev.to/elioenaiferrari/applying-domain-driven-design-ddd-in-golang-5d4m
+
+### How to think like A GENIUS Programmer
+- https://youtu.be/kQUwImj32PA?list=PLy6ERYl7l4aipUAI_GN2opAw-YEtENQbC
