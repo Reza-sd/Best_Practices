@@ -175,3 +175,6 @@
 
 ### How to think like A GENIUS Programmer
 - https://youtu.be/kQUwImj32PA?list=PLy6ERYl7l4aipUAI_GN2opAw-YEtENQbC
+
+### Coding principles.
+- https://youtu.be/q1qKv5TBaOA?list=PLy6ERYl7l4aipUAI_GN2opAw-YEtENQbC
