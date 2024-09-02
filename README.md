@@ -179,7 +179,7 @@
 ### Coding principles.
 - https://youtu.be/q1qKv5TBaOA?list=PLy6ERYl7l4aipUAI_GN2opAw-YEtENQbC
 
-### I’m not a great programmer; I’m just a good programmer with great habits.
+### Why Great Habits Are More Important Than Great Skills?
 - https://jhall.io/posts/great-habits/
 - https://medium.com/casavo/a-good-programmer-with-great-habits-a-thought-on-kent-becks-quote-a11c4e6eb9b2
-- 
+  
