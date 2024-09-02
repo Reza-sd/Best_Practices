@@ -191,3 +191,8 @@
 - https://dev.to/hasanelsherbiny/what-is-overengineering-6jm
 - https://evanm.website/2020/10/how-to-avoid-overengineering/
 - https://bastian-isensee.com/post/09-over-engineering/
+
+### How to cook spaghetti?
+- https://en.wikipedia.org/wiki/Spaghetti_code
+- https://sourcemaking.com/antipatterns/spaghetti-code
+- https://vulcan.io/blog/what-is-spaghetti-code-and-why-is-it-a-problem/
