@@ -2,7 +2,7 @@
 
 ### Clean Code
 - [google] (https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29 target="_blank")
-- -<a href="https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29" target="_blank">Visit Example</a>
+- <a href="https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29" target="_blank"> Visit Example</a>
 
 - https://www.freecodecamp.org/news/clean-coding-for-beginners/ target="_blank"
 
