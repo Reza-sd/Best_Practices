@@ -196,3 +196,9 @@
 - https://en.wikipedia.org/wiki/Spaghetti_code
 - https://sourcemaking.com/antipatterns/spaghetti-code
 - https://vulcan.io/blog/what-is-spaghetti-code-and-why-is-it-a-problem/
+
+### OOP in Golang
+- https://faun.pub/oops-concept-in-golang-4c403fcac911
+- https://medium.com/@canoguz/object-oriented-programming-in-go-e50f8fe4a620
+- https://medium.com/@amren1254/oops-in-go-36b40a8d1b4d
+- https://thegodev.com/is-golang-oop/
