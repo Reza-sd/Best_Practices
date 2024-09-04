@@ -197,7 +197,7 @@
 - https://sourcemaking.com/antipatterns/spaghetti-code
 - https://vulcan.io/blog/what-is-spaghetti-code-and-why-is-it-a-problem/
 
-### Go Style. (Uber Guide, Google Guide)
+### Go Style.How to Go like a pro? (Uber Guide, Google Guide)
 - https://github.com/uber-go/guide/blob/master/style.md
 - https://google.github.io/styleguide/go/decisions
 - https://go.dev/doc/effective_go
