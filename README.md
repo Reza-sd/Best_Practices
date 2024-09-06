@@ -1,8 +1,12 @@
 # Best_Practices
 
+### Built-in functions in Go
+- https://pkg.go.dev/builtin
+- https://antonz.org/go-1-21-builtins/
+
 ### How to deploy your app on a VPS:
 - https://youtu.be/F-9KWQByeU0
-- 
+
 ### Clean Code
 - https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
 - https://www.freecodecamp.org/news/clean-coding-for-beginners/
