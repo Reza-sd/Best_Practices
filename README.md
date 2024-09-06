@@ -1,5 +1,8 @@
 # Best_Practices
 
+### How to deploy your app on a VPS:
+- https://youtu.be/F-9KWQByeU0
+- 
 ### Clean Code
 - https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
 - https://www.freecodecamp.org/news/clean-coding-for-beginners/
