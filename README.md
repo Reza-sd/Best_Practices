@@ -1,5 +1,11 @@
 # Best_Practices
 
+
+### SOLID Go Design
+- https://hackernoon.com/go-design-patterns-an-introduction-to-solid
+- https://dave.cheney.net/2016/08/20/solid-go-design
+- https://youtu.be/zzAdEt3xZ1M
+
 ### Built-in functions in Go
 - https://pkg.go.dev/builtin
 - https://antonz.org/go-1-21-builtins/
