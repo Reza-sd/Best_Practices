@@ -5,6 +5,9 @@
 - https://hackernoon.com/go-design-patterns-an-introduction-to-solid
 - https://dave.cheney.net/2016/08/20/solid-go-design
 - https://youtu.be/zzAdEt3xZ1M
+- https://medium.com/@vishal/understanding-solid-principles-in-golang-a-guide-with-examples-f887172782a3
+
+
 
 ### Built-in functions in Go
 - https://pkg.go.dev/builtin
