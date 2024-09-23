@@ -6,6 +6,9 @@
 - https://dave.cheney.net/2016/08/20/solid-go-design
 - https://youtu.be/zzAdEt3xZ1M
 - https://medium.com/@vishal/understanding-solid-principles-in-golang-a-guide-with-examples-f887172782a3
+- https://dev.to/ansu/solid-principles-explained-with-golang-examples-5eh
+- https://gopherslab.com/insights/solid-design-principles-in-golang/
+- https://packagemain.tech/p/mastering-solid-principles-with-go
 
 
 
