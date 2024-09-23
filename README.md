@@ -9,6 +9,7 @@
 - https://dev.to/ansu/solid-principles-explained-with-golang-examples-5eh
 - https://gopherslab.com/insights/solid-design-principles-in-golang/
 - https://packagemain.tech/p/mastering-solid-principles-with-go
+- https://www.youtube.com/watch?v=aYY87TUKbyo&list=PLBZT_qt7qHRRm8OaFG38JRaL_b8MmEwmx
 
 
 
