@@ -1,5 +1,9 @@
 # Best_Practices
 
+### Backend Developer Roadmap / Mind Map
+- https://roadmap.sh/backend
+- https://roadmap.alexhyett.com/backend-developer-roadmap/
+- https://youtu.be/oVfw8Oj-uH8
 
 ### SOLID Go Design
 - https://hackernoon.com/go-design-patterns-an-introduction-to-solid
