@@ -1,5 +1,10 @@
 # Best_Practices
 
+### Are my functions pure?
+- https://www.compositional-it.com/news-blog/pure-functions/
+- https://youtu.be/fs8jgUMsaL8
+- https://youtu.be/KSJVDqk5X0Q
+
 ### Programming Paradigms (Procedural, Object Oriented and Functional)
 - https://medium.com/@kanavchopra/procedural-vs-functional-vs-object-oriented-programming-978ba1ec93a2
 - https://www.scaler.com/topics/java/oop-vs-functional-vs-procedural/
