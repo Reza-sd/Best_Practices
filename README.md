@@ -1,5 +1,10 @@
 # Best_Practices
 
+### Programming Paradigms (Procedural, Object Oriented and Functional)
+- https://medium.com/@kanavchopra/procedural-vs-functional-vs-object-oriented-programming-978ba1ec93a2
+- https://www.scaler.com/topics/java/oop-vs-functional-vs-procedural/
+- https://youtu.be/hYvd2He-DLk
+
 ### Where am I? (Backend Developer Roadmap/Mind Map)
 - https://roadmap.sh/backend
 - https://roadmap.alexhyett.com/backend-developer-roadmap/
