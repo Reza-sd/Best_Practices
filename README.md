@@ -1,5 +1,11 @@
 # Best_Practices
 
+Does my code smell?
+- https://youtu.be/e-Qya7EOz_0
+- https://youtu.be/ZRPFP-0p0m8
+- https://youtu.be/KGsnhdcBvd0
+- https://youtu.be/MM6_tyvBRXE
+
 
 ### Is my code fit to multi-task? (Race Condition)
 - https://dennylesmana.medium.com/what-is-race-condition-d678f87af108
