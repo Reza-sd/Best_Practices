@@ -11,6 +11,7 @@
 - https://youtu.be/MM6_tyvBRXE
 - https://www.youtube.com/watch?v=p8RC_i9t0MU&list=PL9IEJIKnBJjFk4D6XraTlkO6gOjwAQOIJ
 - https://dev.to/hitheshkumar/code-smells-warning-signs-in-your-codebase-you-cant-ignore-g4l
+- https://typoapp.io/blog/understanding-code-smells-and-how-to-avoid-them
 
 
 ### Is my code fit to multi-task? (Race Condition)
