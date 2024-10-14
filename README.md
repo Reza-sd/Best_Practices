@@ -5,6 +5,7 @@ Does my code smell?
 - https://youtu.be/ZRPFP-0p0m8
 - https://youtu.be/KGsnhdcBvd0
 - https://youtu.be/MM6_tyvBRXE
+- https://www.youtube.com/watch?v=p8RC_i9t0MU&list=PL9IEJIKnBJjFk4D6XraTlkO6gOjwAQOIJ
 
 
 ### Is my code fit to multi-task? (Race Condition)
