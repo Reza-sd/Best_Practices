@@ -1,5 +1,11 @@
 # Best_Practices
 
+
+### Is my code fit to multi-task? (Race Condition)
+- https://dennylesmana.medium.com/what-is-race-condition-d678f87af108
+- https://www.techtarget.com/searchstorage/definition/race-condition
+- https://www.baeldung.com/cs/race-conditions
+
 ### Are my functions pure?
 - https://www.compositional-it.com/news-blog/pure-functions/
 - https://youtu.be/fs8jgUMsaL8
