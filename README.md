@@ -5,6 +5,7 @@
 - https://dennylesmana.medium.com/what-is-race-condition-d678f87af108
 - https://www.techtarget.com/searchstorage/definition/race-condition
 - https://www.baeldung.com/cs/race-conditions
+- https://www.linkedin.com/pulse/race-conditions-software-development-sergey-matikaynen-g8bsf/
 
 ### Are my functions pure?
 - https://www.compositional-it.com/news-blog/pure-functions/
