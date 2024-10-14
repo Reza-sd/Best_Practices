@@ -5,7 +5,6 @@
 - https://refactoring.guru/refactoring/smells
 - https://linearb.io/blog/what-is-a-code-smell
 - https://blog.codinghorror.com/code-smells/
-- https://youtu.be/e-Qya7EOz_0
 - https://youtu.be/ZRPFP-0p0m8
 - https://youtu.be/KGsnhdcBvd0
 - https://youtu.be/MM6_tyvBRXE
