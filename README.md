@@ -1,7 +1,6 @@
 # Best_Practices
 
-Does my code smell? (Code Smells)
-- https://www.opsera.io/blog/what-is-code-smell
+### Does my code smell? (Code Smells - Smelly Code Can Become Rotten Code)- https://www.opsera.io/blog/what-is-code-smell
 - https://refactoring.guru/refactoring/smells
 - https://linearb.io/blog/what-is-a-code-smell
 - https://blog.codinghorror.com/code-smells/
