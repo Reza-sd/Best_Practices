@@ -4,6 +4,7 @@
 - https://www.eddymens.com/blog/what-is-vanilla-code-53049e3340738
 - https://invedus.com/blog/what-is-a-framework-and-why-use-frameworks-in-software-development/
 - https://www.geeksforgeeks.org/why-should-you-use-framework-in-programming/
+- https://medium.com/@josueparra2892/frameworks-vs-vanilla-programming-a-comparative-perspective-6fcb93d84f09
 - https://symfony.com/when-use-a-framework
 
 
