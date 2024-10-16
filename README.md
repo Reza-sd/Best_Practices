@@ -4,6 +4,7 @@
 - https://youtu.be/Jsue3QoeXtE
 - https://youtu.be/ljT4AcCza9Q
 - https://youtu.be/MV0XJQf8tT0
+- https://github.blog/security/supply-chain-security/github-supply-chain-security-features-go-community/
 - https://www.redhat.com/en/blog/understanding-open-source-software-supply-chain-risks
 - https://www.reversinglabs.com/blog/a-partial-history-of-software-supply-chain-attacks
 - https://snyk.io/blog/npm-security-preventing-supply-chain-attacks/
