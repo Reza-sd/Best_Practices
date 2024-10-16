@@ -1,5 +1,14 @@
 # Best_Practices
 
+### How should I order a Sandwich? (Imperative, Declarative)
+- https://youtu.be/Xn5YVwTVC_I
+- https://www.dataops.live/the-data-engineers-guide-to-declarative-vs-imperative-for-data
+- https://medium.com/@amtkumar2053/unlocking-the-power-of-declarative-and-reactive-programming-paradigms-1d44af119bff
+- https://medium.com/@jonathan.paul-reuven/a-basic-introduction-to-declarative-vs-imperative-programming-a518ff33b196
+- https://medium.com/@jbalaraman/understanding-declarative-vs-imperative-programming-065c6063a07e
+- https://blog.jgriffiths.org/imperative-vs-declarative-it/
+
+
 ### Should I eat plain vanilla ice cream? (Vanilla Code or Framework)
 - https://www.eddymens.com/blog/what-is-vanilla-code-53049e3340738
 - https://invedus.com/blog/what-is-a-framework-and-why-use-frameworks-in-software-development/
