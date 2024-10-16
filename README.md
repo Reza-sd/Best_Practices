@@ -4,6 +4,7 @@
 - https://youtu.be/lqmMqtgWpms
 - https://www.debuggershub.com/programming-language-concepts-and-paradigms/
 - https://webperso.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+- https://webperso.info.ucl.ac.be/~pvr/paradigms.html
 
 ### How should I order a Sandwich? (Imperative, Declarative)
 - https://youtu.be/Xn5YVwTVC_I
