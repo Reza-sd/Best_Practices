@@ -1,6 +1,6 @@
 # Best_Practices
 
-### What is a supply chain attack? 
+### Should I rely on dependencies? (supply chain attack) 
 - https://youtu.be/Jsue3QoeXtE
 - https://www.redhat.com/en/blog/understanding-open-source-software-supply-chain-risks
 - https://www.reversinglabs.com/blog/a-partial-history-of-software-supply-chain-attacks
