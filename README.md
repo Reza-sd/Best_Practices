@@ -1,5 +1,12 @@
 # Best_Practices
 
+### Should I eat plain vanilla ice cream? (Vanilla Code or Framework)
+- https://www.eddymens.com/blog/what-is-vanilla-code-53049e3340738
+- https://invedus.com/blog/what-is-a-framework-and-why-use-frameworks-in-software-development/
+- https://www.geeksforgeeks.org/why-should-you-use-framework-in-programming/
+- https://symfony.com/when-use-a-framework
+
+
 ### Does my code smell? (Code Smells - Smelly Code Can Become Rotten Code)
 - https://www.opsera.io/blog/what-is-code-smell
 - https://refactoring.guru/refactoring/smells
