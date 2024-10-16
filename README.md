@@ -1,5 +1,10 @@
 # Best_Practices
 
+### Which language should I choose? (Programming Paradigms)
+- https://youtu.be/lqmMqtgWpms
+- https://www.debuggershub.com/programming-language-concepts-and-paradigms/
+- https://webperso.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+
 ### How should I order a Sandwich? (Imperative, Declarative)
 - https://youtu.be/Xn5YVwTVC_I
 - https://www.dataops.live/the-data-engineers-guide-to-declarative-vs-imperative-for-data
