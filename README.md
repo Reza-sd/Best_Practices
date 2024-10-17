@@ -290,6 +290,7 @@
 - https://github.com/uber-go/guide/blob/master/style.md
 - https://google.github.io/styleguide/go/decisions
 - https://go.dev/doc/effective_go
+- https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md
 
 ### OOP in Golang
 - https://faun.pub/oops-concept-in-golang-4c403fcac911
