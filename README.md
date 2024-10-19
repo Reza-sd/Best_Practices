@@ -1,6 +1,6 @@
 # Best_Practices
 
-### My thoughts:
+### My thoughts
 1. Simplicity is complex.
 2. Good design = Good security
 3. People typically don't exercise until they experience health problems.
