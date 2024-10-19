@@ -1,5 +1,11 @@
 # Best_Practices
 
+# My outcomes:
+- Simplicity is complex.
+- Good design = Good security
+- Good outcomes come from good habits. Good habits come from good styles. Good styles come from good mindsets. Good mindsets come from your pains experienced.
+- People typically don't exercise until they experience health problems.
+
 ### Is software engineering all about coding? [Software Engineering Body of Knowledge (SWEBOK)]
 - https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge
 - https://www.computer.org/education/bodies-of-knowledge/software-engineering
