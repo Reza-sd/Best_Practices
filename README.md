@@ -1,6 +1,6 @@
 # Best_Practices
 
-# My thoughts:
+### My thoughts:
 - Simplicity is complex.
 - Good design = Good security
 - Good outcomes come from good habits. Good habits come from good styles. Good styles come from good mindsets. Good mindsets come from your pains experienced.
