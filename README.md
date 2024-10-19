@@ -1,10 +1,10 @@
 # Best_Practices
 
 ### My thoughts:
-- Simplicity is complex.
-- Good design = Good security
-- People typically don't exercise until they experience health problems.
-- Good outcomes come from good habits; good habits come from good styles; good styles come from good mindsets; and good mindsets come from your experienced pains. Embrace Your Pain. Pain is inevitable. Suffering is optional. Continuous Learning.
++ Simplicity is complex.
++ Good design = Good security
++ People typically don't exercise until they experience health problems.
++ Good outcomes come from good habits; good habits come from good styles; good styles come from good mindsets; and good mindsets come from your experienced pains. Embrace Your Pain. Pain is inevitable. Suffering is optional. Continuous Learning.
 
 ### Is software engineering all about coding? [Software Engineering Body of Knowledge (SWEBOK)]
 - https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge
