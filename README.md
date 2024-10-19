@@ -1,7 +1,7 @@
 # Best_Practices
 
 ### My thoughts:
-* Simplicity is complex.
+** Simplicity is complex.
 * Good design = Good security
 * People typically don't exercise until they experience health problems.
 * Good outcomes come from good habits; good habits come from good styles; good styles come from good mindsets; and good mindsets come from your experienced pains. Embrace Your Pain. Pain is inevitable. Suffering is optional. Continuous Learning.
