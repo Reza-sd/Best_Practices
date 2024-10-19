@@ -1,5 +1,11 @@
 # Best_Practices
 
+### Is software engineering all about coding? [Software Engineering Body of Knowledge (SWEBOK)]
+- https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge
+- https://www.computer.org/education/bodies-of-knowledge/software-engineering
+- https://youtube.com/playlist?list=PLJt9mvU9qi3kvk2ESV2oPQDacVzP8CY5E&si=gam0fmfyorWO9lVg
+- https://sebokwiki.org/wiki/An_Overview_of_the_SWEBOK_Guide
+
 ### Should I trust dependencies? (supply chain attack) 
 - https://youtu.be/Jsue3QoeXtE
 - https://youtu.be/ljT4AcCza9Q
