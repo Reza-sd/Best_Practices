@@ -13,6 +13,7 @@
 - https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns
 - https://onsiter.medium.com/what-are-anti-patterns-in-software-development-and-how-to-avoid-them-3973bb53224d
 - https://youtu.be/V2WwAwEFgZ8
+- https://wiki.c2.com/?AntiPatternsCatalog
 
 ### Say Goodbye to Magic Numbers (Enums in Golang)
 - https://dev.to/ankitmalikg/implementing-enums-in-golang-40ie
