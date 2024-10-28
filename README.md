@@ -6,6 +6,13 @@
 3. People typically don't exercise until they experience health problems.
 4. Good outcomes come from good habits; good habits come from good styles; good styles come from good mindsets; and good mindsets come from your experienced pains. Embrace Your Pain. Pain is inevitable. Suffering is optional. Continuous Learning.
 
+### Anti-patterns
+- https://en.wikipedia.org/wiki/Anti-pattern
+- https://www.freecodecamp.org/news/antipatterns-to-avoid-in-code/
+- https://medium.com/@christophnissle/anti-patterns-in-software-architecture-3c8970c9c4f5
+- https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns
+- https://onsiter.medium.com/what-are-anti-patterns-in-software-development-and-how-to-avoid-them-3973bb53224d
+
 ### Say Goodbye to Magic Numbers (Enums in Golang)
 - https://dev.to/ankitmalikg/implementing-enums-in-golang-40ie
 - https://dizzy.zone/2024/01/26/Enums-in-Go/
