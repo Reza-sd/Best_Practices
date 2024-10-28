@@ -11,7 +11,7 @@
 - https://dizzy.zone/2024/01/26/Enums-in-Go/
 - https://youtu.be/1zExeiOZ4CU
 
-### Common anti-patterns in Go
+### Common anti-patterns (inefficient and risky) in Go
 - https://deepsource.com/blog/common-antipatterns-in-go
 - https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
 - https://hackmysql.com/golang/go-antipatterns/
