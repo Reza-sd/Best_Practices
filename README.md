@@ -12,6 +12,7 @@
 - https://medium.com/@christophnissle/anti-patterns-in-software-architecture-3c8970c9c4f5
 - https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns
 - https://onsiter.medium.com/what-are-anti-patterns-in-software-development-and-how-to-avoid-them-3973bb53224d
+- https://www.lucidchart.com/blog/what-are-software-anti-patterns
 - https://youtu.be/V2WwAwEFgZ8
 - https://youtu.be/njdaMBqquos
 - https://wiki.c2.com/?AntiPatternsCatalog
