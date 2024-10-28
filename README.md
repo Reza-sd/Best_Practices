@@ -6,6 +6,11 @@
 3. People typically don't exercise until they experience health problems.
 4. Good outcomes come from good habits; good habits come from good styles; good styles come from good mindsets; and good mindsets come from your experienced pains. Embrace Your Pain. Pain is inevitable. Suffering is optional. Continuous Learning.
 
+### Say Goodbye to Magic Numbers (Enums in Golang)
+- https://dev.to/ankitmalikg/implementing-enums-in-golang-40ie
+- https://dizzy.zone/2024/01/26/Enums-in-Go/
+- https://youtu.be/1zExeiOZ4CU
+
 ### Common anti-patterns in Go
 - https://deepsource.com/blog/common-antipatterns-in-go
 - https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
