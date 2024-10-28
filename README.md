@@ -9,6 +9,7 @@
 ### Common anti-patterns in Go
 - https://deepsource.com/blog/common-antipatterns-in-go
 - https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
+- https://hackmysql.com/golang/go-antipatterns/
 - https://youtu.be/ltqV6pDKZD8
 - https://youtu.be/UCe88lVm1LE
 
