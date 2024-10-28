@@ -6,6 +6,12 @@
 3. People typically don't exercise until they experience health problems.
 4. Good outcomes come from good habits; good habits come from good styles; good styles come from good mindsets; and good mindsets come from your experienced pains. Embrace Your Pain. Pain is inevitable. Suffering is optional. Continuous Learning.
 
+### Common anti-patterns in Go
+- https://deepsource.com/blog/common-antipatterns-in-go
+- https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
+- https://youtu.be/ltqV6pDKZD8
+- https://youtu.be/UCe88lVm1LE
+
 ### Is software engineering all about coding? [Software Engineering Body of Knowledge (SWEBOK)]
 - https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge
 - https://www.computer.org/education/bodies-of-knowledge/software-engineering
