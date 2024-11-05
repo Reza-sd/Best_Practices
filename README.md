@@ -7,7 +7,7 @@
 4. Good outcomes come from good habits; good habits come from good styles; good styles come from good mindsets; and good mindsets come from your experienced pains. Embrace Your Pain. Pain is inevitable. Suffering is optional. Continuous Learning.
 
 
-### How much can your code hurt others? (Software Bugs)
+### How much can your code hurt people? (Software Bugs)
 - https://softwaremill.com/bad-software-examples-how-much-can-poor-code-hurt-you/
 - https://raygun.com/blog/costly-software-errors-history/
 - https://youtu.be/Iq_r7IcNmUk
