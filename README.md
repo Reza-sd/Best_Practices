@@ -6,6 +6,10 @@
 3. People typically don't exercise until they experience health problems.
 4. Good outcomes come from good habits; good habits come from good styles; good styles come from good mindsets; and good mindsets come from your experienced pains. Embrace Your Pain. Pain is inevitable. Suffering is optional. Continuous Learning.
 
+### Why I can't complete the project on time? (Hofstadter's Law)
+- https://www.techtarget.com/whatis/definition/Hofstadters-law
+- https://deviq.com/laws/hofstadters-law
+- https://youtu.be/lbsZSLOSgBc
 
 ### How much can your code hurt people? (Software Bugs)
 - https://softwaremill.com/bad-software-examples-how-much-can-poor-code-hurt-you/
