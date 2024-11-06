@@ -10,6 +10,7 @@
 - https://www.techtarget.com/whatis/definition/Hofstadters-law
 - https://deviq.com/laws/hofstadters-law
 - https://youtu.be/lbsZSLOSgBc
+- https://youtu.be/OS6gzabM0pI
 
 ### How much can your code hurt people? (Software Bugs)
 - https://softwaremill.com/bad-software-examples-how-much-can-poor-code-hurt-you/
