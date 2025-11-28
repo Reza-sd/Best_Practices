@@ -9,6 +9,11 @@
 ### Golang Concurrency
 - https://youtu.be/eqSgTJ6HTsw
 
+### Why should I embrace the catfish? (Catfish Effect)
+- https://en.wikipedia.org/wiki/Catfish_effect
+- https://medium.com/@akashlomas/the-catfish-effect-survival-by-discomfort-d8aa85aaf372
+- https://www.linkedin.com/pulse/catfish-effect-story-competition-innovation-alexander-yvbnc
+
 ### Why I can't complete the project on time? (Hofstadter's Law)
 - https://www.techtarget.com/whatis/definition/Hofstadters-law
 - https://deviq.com/laws/hofstadters-law
