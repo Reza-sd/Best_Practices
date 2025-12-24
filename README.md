@@ -187,6 +187,7 @@
 - https://en.wikipedia.org/wiki/The_Power_of_10:_Rules_for_Developing_Safety-Critical_Code
 - https://sdtimes.com/nasas-10-rules-developing-safety-critical-code/
 - https://youtu.be/GWYhtksrmhE
+- [https://www.youtube.com/watch?v=qNAbffRoEcI](https://youtu.be/qNAbffRoEcI)
 
 ### Golang Best Practices
 - https://medium.com/@golangda/golang-quick-reference-top-20-best-coding-practices-c0cea6a43f20
