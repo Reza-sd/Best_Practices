@@ -9,6 +9,14 @@
 ### Golang Concurrency
 - https://youtu.be/eqSgTJ6HTsw
 
+### Defensive Programming
+- https://en.wikipedia.org/wiki/Defensive_programming
+- https://dev.to/tentanganak/defensive-programming-as-a-backend-developer-building-robust-and-secure-systems-50kk
+- https://www.codingexplorations.com/blog/defensive-programming-in-go-the-power-of-defer-and-nil-checks
+- https://medium.com/@gane18/preventing-goroutine-leaks-in-go-diagnosis-and-defensive-coding-techniques-2ef1144cc99d
+- https://chatgpt.com/share/694c49f0-0e40-8009-9c4f-20bedd40d220
+- https://medium.com/@arumukherjee121/the-art-of-defensive-programming-62c6f22b2758
+
 ### Why should I embrace the catfish? (Catfish Effect)
 - https://en.wikipedia.org/wiki/Catfish_effect
 - https://medium.com/@akashlomas/the-catfish-effect-survival-by-discomfort-d8aa85aaf372
